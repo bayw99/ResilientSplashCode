@@ -1,0 +1,15 @@
+:root { 
+  --black: #000000;
+  --white: #ffffff;
+ 
+  --font-size-l: 36px;
+ 
+  --font-family-abeezee: "ABeeZee", Helvetica;
+}
+.abeezee-normal-white-36px {
+  color: var(--white);
+  font-family: var(--font-family-abeezee);
+  font-size: var(--font-size-l);
+  font-style: italic;
+  font-weight: 400;
+}
